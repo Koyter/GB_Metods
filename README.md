@@ -1,1 +1,1 @@
-# GB_Method_Internet
+# GB_Method
