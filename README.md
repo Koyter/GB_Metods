@@ -1,1 +1,1 @@
-# GB_Metods
+# GB_Method
